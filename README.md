@@ -41,7 +41,7 @@ The frontend is built with React and leverages Axios for API requests, React Rou
 1. **Clone the Repository:**
 
 bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/1502aditya/Personal-Finance-Manager-with-MERN-Technology)
 
 Navigate to the Client Directory:
 
